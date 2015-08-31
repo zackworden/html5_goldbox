@@ -1,0 +1,36 @@
+title screen
+choose your party screen
+choose your enemy screen
+combat
+
+
+characters
+	- can be facing in each of 8 directions (12346789, on numpad)
+	- artwork shows left or right
+	- inventory
+	- spells
+	- items
+	- hp / mp
+	- stats
+	- skills
+
+combat mode
+	- 2 parties: 1 player, 1 enemy
+	- win conditions: all PCs are defeated, all enemy NPCs are defeated, XXX turns have passed, or QUIT is selected from the menu
+
+party 
+	- all characters in party
+	- is this the player?
+	
+character
+	- name
+	- items
+		- a weapon
+		- a shield
+		- armor
+	- stats
+		- attack
+		- defense
+	- characters sprite sheet
+	
+	
